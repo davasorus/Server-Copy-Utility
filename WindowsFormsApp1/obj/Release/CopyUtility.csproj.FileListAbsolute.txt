@@ -1,0 +1,20 @@
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\bin\Release\CopyFiles.exe.config
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\bin\Release\CopyFiles.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\bin\Release\CopyFiles.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\CopyUtility.csprojAssemblyReference.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\CopyFiles.Properties.Resources.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\CopyUtility.csproj.GenerateResource.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\CopyUtility.csproj.CoreCompileInputs.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\CopyFiles.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\WindowsFormsApp1 - Work\WindowsFormsApp1\obj\Release\CopyFiles.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\bin\Release\CopyFiles.exe.config
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\bin\Release\CopyFiles.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\bin\Release\CopyFiles.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\CopyUtility.csprojAssemblyReference.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\CopyFiles.Properties.Resources.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\CopyUtility.csproj.GenerateResource.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\CopyUtility.csproj.CoreCompileInputs.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\CopyFiles.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Release\CopyFiles.pdb

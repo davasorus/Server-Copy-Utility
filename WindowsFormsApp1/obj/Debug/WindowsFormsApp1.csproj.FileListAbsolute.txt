@@ -1,0 +1,30 @@
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.exe.config
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.exe
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.pdb
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.exe
+C:\Users\sean.davitt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.pdb
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.exe
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.pdb
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.exe.config
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.exe
+C:\Users\seand\Desktop\New folder\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.pdb
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.exe.config
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.exe
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CopyFiles.pdb
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.exe
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CopyFiles.pdb
+C:\Users\seand\Desktop\VS2017\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache

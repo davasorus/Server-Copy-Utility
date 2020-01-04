@@ -1,0 +1,38 @@
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\bin\Debug\CopyFiles.exe.config
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\bin\Debug\CopyFiles.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\bin\Debug\CopyFiles.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\Server Migration Utility.csprojAssemblyReference.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\CopyFiles.Properties.Resources.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.GenerateResource.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.CoreCompileInputs.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\CopyFiles.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC2\WindowsFormsApp1\obj\Debug\CopyFiles.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Server Migration Utility.csprojAssemblyReference.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.GenerateResource.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.CoreCompileInputs.cache
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.pssym
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.exe.config
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\PostSharp.dll
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\PostSharp.xml
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\MobileServerMigrationUtility.Properties.Resources.resources
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.CopyComplete
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\PostSharp\touch
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\PostSharp\dependencies.txt
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Mobile Server Migration Utility.exe
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Mobile Server Migration Utility.pdb
+C:\Users\sean.davitt\OneDrive - Tyler Technologies, Inc\Desktop\Home office\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\PostSharp\postsharp.app.config
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.exe.config
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.exe
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\Mobile Server Migration Utility.pdb
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\PostSharp.dll
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\bin\Debug\PostSharp.xml
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\MobileServerMigrationUtility.Properties.Resources.resources
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.GenerateResource.cache
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Server Migration Utility.csproj.CopyComplete
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Mobile Server Migration Utility.exe
+D:\Share\VS2017\Server Copy Utility RC3\WindowsFormsApp1\obj\Debug\Mobile Server Migration Utility.pdb
